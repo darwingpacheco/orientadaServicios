@@ -49,15 +49,15 @@ SECRET_KEY=HhjbNIJSDV2412:
 # Estructura del Proyecto
 
 ### src\
-   |--config\         # Variables de entorno y configuración 
-   |--controllers\    # Controladores 
-   |--img\            # Imagenes públicas
-   |--middlewares\    # Middleware Personalizados
-   |--models\         # Postgrest models (data layer) 
-   |--routes\         # Rutas del sistema
-   |--services\       # Servicios de conexión BD y Token 
-   |--validator\      # Esquemas de validación
-   |--index.js        # Express app
+   --config\         # Variables de entorno y configuración 
+   --controllers\    # Controladores 
+   --img\            # Imagenes públicas
+   --middlewares\    # Middleware Personalizados
+   --models\         # Postgrest models (data layer) 
+   --routes\         # Rutas del sistema
+   --services\       # Servicios de conexión BD y Token 
+   --validator\      # Esquemas de validación
+   --index.js        # Express app
 
 
 ## Endpoints:
